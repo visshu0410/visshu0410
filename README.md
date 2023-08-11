@@ -1,4 +1,10 @@
 ### Hi there 👋
+### I am VIsal Gound Currently a final year undergraduate at Maulana Azad NAtional Institute of Technology
+
+
+
+<!-----------------------------------------------------------------------------------------------------------------------------------!>
+<a href="https://auth.geeksforgeeks.org/user/vishal_04102001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishal_04102001" height="40" width="40" /></a>
 
 <!--
 **visshu0410/visshu0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
