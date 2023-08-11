@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I am VIsal Gound Currently a final year undergraduate at Maulana Azad NAtional Institute of Technology
+ I am Vishal Gound Currently a final year undergraduate at Maulana Azad National Institute of Technology pursuing B.Tech in Computer Science and Engineering
+ Looking forward for some new ooportunities.
 
 
 
